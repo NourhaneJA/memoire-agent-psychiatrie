@@ -114,7 +114,7 @@ exécution R2 (51 cas), statistiques de synthèse, export final.
 ## Comment reproduire
 
 1. `01_donnees/` --- régénérer les corpus nettoyés, dans l'ordre.
-2. `02_base_connaissances/01_...`  construire la base ChromaDB~;
+2. `02_base_connaissances/01_...`  construire la base ChromaDB;
    exécuter `02_correction_...` seulement si une correction ultérieure
    des documents Shifaa est nécessaire.
 3. `03_comparaison_backbones/`
