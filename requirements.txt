@@ -1,0 +1,33 @@
+# Données 
+datasets
+pandas
+numpy
+
+# Base de connaissances / RAG 
+chromadb
+sentence-transformers
+
+# Orchestrateur
+fasttext
+
+# Génération (backbones + quantification) 
+transformers
+torch
+accelerate
+bitsandbytes
+
+# Entrée multimodale
+faster-whisper
+pytesseract
+
+# Métriques d'évaluation 
+rouge-score
+sacrebleu
+nltk
+bert-score
+scipy
+
+# Serveur de test local (VS Code) 
+fastapi
+uvicorn
+pydantic
